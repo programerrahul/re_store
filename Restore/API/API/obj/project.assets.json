@@ -6300,11 +6300,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\React\\Restore\\API\\API\\API.csproj",
+      "projectUniqueName": "F:\\React\\re_store\\Restore\\API\\API\\API.csproj",
       "projectName": "API",
-      "projectPath": "F:\\React\\Restore\\API\\API\\API.csproj",
+      "projectPath": "F:\\React\\re_store\\Restore\\API\\API\\API.csproj",
       "packagesPath": "C:\\Users\\rahuloffice\\.nuget\\packages\\",
-      "outputPath": "F:\\React\\Restore\\API\\API\\obj\\",
+      "outputPath": "F:\\React\\re_store\\Restore\\API\\API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
